@@ -13,5 +13,4 @@ if numero < numerodos :
 if numero == numerodos :
         print(0)
 if numero > numerodos :
-        print(1)
-        
+        print(1)       
